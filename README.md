@@ -26,7 +26,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia
 
-actualment minut 12
+actualment minut 24
 
 
 Hem resolt un problema de l'axios amb el següent enllacç d'stackoverflow
