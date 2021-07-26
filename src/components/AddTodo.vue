@@ -36,14 +36,15 @@ form {
 input[type="text"] {
   flex: 10;
   padding: 10px;
-  border: 1px solid #ff6e6e;
+  border: 1px solid #84253E;
+  background-color: #FDF1DB;
   outline: 0;
 }
 input[type="submit"] {
   flex: 2;
-  background: #ff6e6e;
-  color: #fff;
-  border: 1px solid #ff6e6e;
+  background: #84253E;
+  color: #E8E9A1;
+  border: 3px solid #84253E;
   cursor: pointer;
 }
 </style>

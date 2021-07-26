@@ -24,7 +24,8 @@ export default {
 select {
   margin-top: 20px;
   padding: 6px;
-  border: #ff6e6e 1px solid;
+  border: #84253E 1px solid;
+  background-color: #FDF1DB;
 }
 
 </style>
