@@ -49,5 +49,3 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### I've developed the code from this tutorial: Vuex Crash Course | State Management
 https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia
-
-se what happens when I try to push!
